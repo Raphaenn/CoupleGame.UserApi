@@ -1,0 +1,6 @@
+@CoupleGame.Backend.Auth_HostAddress = http://localhost:5011
+
+GET {{CoupleGame.Backend.Auth_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
